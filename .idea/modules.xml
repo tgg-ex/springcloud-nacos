@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-example/config-example.iml" filepath="$PROJECT_DIR$/config-example/config-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-one-example/consumer-one-example.iml" filepath="$PROJECT_DIR$/consumer-one-example/consumer-one-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-two-example/consumer-two-example.iml" filepath="$PROJECT_DIR$/consumer-two-example/consumer-two-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-examples.iml" filepath="$PROJECT_DIR$/nacos-examples.iml" />
+    </modules>
+  </component>
+</project>
